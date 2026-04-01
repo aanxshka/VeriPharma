@@ -1,4 +1,4 @@
-# VeriPharma
+# VeriPharma (HackHarvard 2024)
 
 A blockchain-based pharmaceutical supply chain verification system built to combat counterfeit drugs. VeriPharma enables manufacturers, retailers, and end-users to register, track, and verify the authenticity of medications on the Ethereum blockchain.
 
